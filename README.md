@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Kacper Szymanski  
 
   #### Je startniveau:
-  rood
+  blauw/rood
 
   #### Je focus:
   surface plane (bling bling)
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  https://www.melkweg.nl/nl/
+  https://www.melkweg.nl/nl/agenda/evangelion-3-0-1-0-thrice-upon-a-time-2021-04-09-2022
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Melkweg homepage
+  <img src="readme-images/MelkwegHome.png" width="375px" alt="homepage van de melkweg">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Melkweg concert pagina
+  <img src="readme-images/melkwegAgenda.png" width="375px" alt="film op de agenda van de melkweg website">
  
 </details>
 
@@ -59,27 +59,29 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Screenreader duurde lang en was niet snel door te lopen. 
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+   -------------------------------- --------------------------------
+  Gebruiker eerder menu's aangeven, niet alles onnodig laten oplezen
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Muis en toetsenbord is redelijk goed te doen. Wel soms lastig zichtbaar wat highlighted is. Sommige navigaties duren lang om doorheen te gaan.
+ -------------------------------- --------------------------------
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Zichtbaarheid verbeteren van border-box, miss op een of andere manier navigatie sneller laten doorlopen?? 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Motoriek was redelijk te doen. Sommige knoppen zijn te klein om te klikken en te makkelijk om te missen maar in het algemeen was het doenbaar. 
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
+ -------------------------------- --------------------------------
+Sommige knoppen misschien wat groter?
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Kleurenblindheid was perfect door te lopen. Er is een goeie contrast tussen kleuren en niks werd minder duidelijk tijdens het doorlopen van de website. 
+  De brillen waren interessanter. Met de blurry bril was niks te lezen totdat je de pagina op 300% zoom doet. 
+  Met de center vision blackout bril moest je lezen met je pheriferal vision wat voor mij bijna onmogelijk is. Je pheriferal vision is heel wazig.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+   -------------------------------- --------------------------------
+   Blurry bril zorgde ervoor dat de site niet te lezen van maar de zoom in browsers zou genoeg moeten zijn om dat op te lossen. Center vision blackout was bizar lastig, maar misschien is een screenreader oplossing dan bruikbaar hiervoor?
 
 </details>
 

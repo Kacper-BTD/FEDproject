@@ -38,6 +38,7 @@ summary {
 	--test-kleur2: Orange;
 	--text-wit: white;
 	--text-zwart: black;
+	--data-kleur: rgb(106,122,147);
 }
 
 
@@ -72,8 +73,10 @@ header nav {
 }
 
 header nav>a {
-	font-size: 2em;
-	padding-left: 1em;
+	display: flex;
+	align-items: center;
+	font-size: 1.5em;
+	padding-left: .8em;
 	background-color: var(--thema-kleur);
 	color: var(--text-wit);
 	text-decoration: none;
@@ -94,7 +97,7 @@ header nav ul {
 
 header nav li {
 	display: flex;
-	width: 20%;
+	flex-grow: 1;
 	height: 100%;
 	justify-content: center;
 	align-items: center;
@@ -111,7 +114,7 @@ width: 100%;
 height: 15em;
 
 }
-section p:nth-of-type(1){
+section :nth-of-type() {
 	font-family: Melkweg, Comic-sans;
 	color: var(--text-wit);
 	background-color: var(--thema-kleur);
@@ -132,6 +135,20 @@ h1{
 }
  section > section:nth-of-type(2) {
 	color: white;
-background-color: white;
+background-color: var(--data-kleur);
 height: 10em;
+}
+
+
+
+
+
+/***
+CODE 2E PAGNA
+****/ 
+
+#agendaMain img{
+
+width: 100%;
+height: 15em;
 }

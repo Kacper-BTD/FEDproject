@@ -20,15 +20,14 @@ summary {
 }
 
 @font-face {
-    font-family: Melkweg;
-    src: url(/assets/melkweg-regular.woff2);
+	font-family: Melkweg;
+	src: url(../assets/melkweg-regular.otf);
 }
 
 @font-face {
-    font-family: Calibre;
-    src: url(/assets/calibre-regular.woff2);
+	font-family: Calibre;
+	src: url(../assets/calibre-regular.otf);
 }
-
 
 
 /* *********Custom properties**********/
@@ -128,7 +127,7 @@ header nav section button svg {
     width: 3.3em;
     height: 3.5em;
     background-color: var(--thema-kleur);
-    fill: var(--wit);
+    fill: var(--zwart);
 
 }
 
@@ -710,3 +709,4 @@ header nav section button svg {
 }
 
 /* ********************* */
+

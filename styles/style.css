@@ -21,13 +21,14 @@ summary {
 
 @font-face {
 	font-family: Melkweg;
-	src: url(/assets/melkweg-regular.woff2);
+	src: url(../assets/melkweg-regular.otf);
 }
 
 @font-face {
 	font-family: Calibre;
-	src: url(/assets/calibre-regular.woff2);
+	src: url(../assets/calibre-regular.otf);
 }
+
 
 
 
@@ -672,12 +673,15 @@ header nav section button svg {
 #agenda>section:nth-of-type(2)>div {
 	border: 3px solid var(--wit);
 	margin: .4em;
+
 }
+
 
 #agenda>section:nth-of-type(2) svg {
 	fill: white;
 	height: 5em;
 	width: 5em;
+
 }
 
 #agenda>section:nth-of-type(2) a {
@@ -688,7 +692,6 @@ header nav section button svg {
 	flex-direction: column;
 	align-items: center
 }
-
 /* ********************* */
 
 /* **********Youtube video*********** */
@@ -703,5 +706,4 @@ header nav section button svg {
 	height: 15em;
 	width: 100%
 }
-
 /* ********************* */

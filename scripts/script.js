@@ -5,9 +5,23 @@ light_mode_button = document.querySelector("header nav section button")
 light_mode_button.addEventListener("click", () => {
     changeMode()
 })
+
+darkmode = 1
+
 function changeMode() {
+    if(darkmode == 1){
     document.querySelector("[href='styles/style.css']").setAttribute('href', 'styles/lightmode.css')
+    darkmode = 0
+    return
+    }
+    
+    if(darkmode == 0){
+    document.querySelector("[href='styles/lightmode.css']").setAttribute('href', 'styles/style.css')
+    darkmode = 1
+    return
+    }
 }
+
 
 
 //Laser verschijnt als je op 'L' klikt (+audio)

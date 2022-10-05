@@ -87,7 +87,7 @@ Sommige knoppen misschien wat groter?
 
 
 
-## Breakdownschets (week 1)
+<!-- ## Breakdownschets (week 1)
 
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
@@ -101,7 +101,7 @@ Sommige knoppen misschien wat groter?
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
-</details>
+</details> -->
 
 
 
@@ -275,8 +275,13 @@ Sommige knoppen misschien wat groter?
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
-
+  https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state
+  https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+ http://gcctech.org/csc/javascript/javascript_keycodes.htm
+ https://www.w3schools.com/css/css3_animations.asp
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
+https://www.youtube.com/watch?v=VXWvfrmpapI
+https://www.youtube.com/watch?v=VXWvfrmpapI
+https://css-tricks.com/almanac/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 </details>

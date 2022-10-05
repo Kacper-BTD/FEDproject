@@ -21,12 +21,12 @@ summary {
 
 @font-face {
 	font-family: Melkweg;
-	src: url(../assets/melkweg-regular.woff2) format('woff2');
+	src: url(../assets/melkweg-regular.otf);
 }
 
 @font-face {
 	font-family: Calibre;
-	src: url(../assets/calibre-regular.woff2) format('woff2');
+	src: url(../assets/calibre-regular.otf);
 }
 
 

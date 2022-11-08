@@ -87,23 +87,6 @@ Sommige knoppen misschien wat groter?
 
 
 
-<!-- ## Breakdownschets (week 1)
-
-<details>
-  <summary>uitwerken na afloop 2e werkgroep</summary>
-
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
-</details> -->
-
-
 
 
 
@@ -112,27 +95,11 @@ Sommige knoppen misschien wat groter?
 <details>
   <summary>uitwerken voor 1e voortgang</summary>
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  ### Stand van zaken & Verslag van meeting
+ Tijdens week 2 begon ik mijn website te coderen. Ik begreep nogsteeds niet hoe nth-of-type werkte en heb ik vervolgens na het voortganggesprek met Laurens uitgelegd gekregen. Tijdens week 2 leerde ik ook hoe ik :root gebruik om variabele die constant terug gaan komen in mijn code te kunnen bewaren (in mijn geval waren dat vooral kleuren maar je kan het ook gebruiken voor bijvoorbeeld pixels, em's en meer). Voor de rest ben ik vooral geholpen met de plaatsen van content in week 2 aangezien ik vooral daarmee problemen had. 
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
 
 </details>
 
@@ -146,26 +113,13 @@ Sommige knoppen misschien wat groter?
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Tijdens week 3 had ik de index bijna af. Ik had vooral problemen met de positioning van de footer en het gebruiken van svgs (moet ik de svg oproepen, de path? wat is xml? etc.)
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+   Na deze meeting wist ik hoe ik verder moest gaan met mijn footer. Ik leerde meer over svgs en hoe ik ze moet gebruiken in de code. Ook leerde ik toen wat precies text-transform is en hoe je het kan gebruiken. 
 
 </details>
 
@@ -180,29 +134,22 @@ Sommige knoppen misschien wat groter?
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Tijdens de toegangelijkheid test merkte ik dat tab-targeting niet goed was op mij website. Het was vaak niet snel duidelijk waar je bent. Dit moet ik gaan verbeteren. 
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  De screenreader werkte prima, alleen sommige plaatjes hebben nog geen alt-tekst waardoor het niet goed word voorgelezen. Dat moet veranderen. 
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ Zoals bij bevindingen geschreven de tab-targeting met de toetsenbord was nog niet helemaal goed. Het moet duidelijker worden waar je precies bent.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ De motoriek ging heel goed, zowel met de shocks als elastiekjes kon ik alle content prima aanklikken. De knoppen zijn ver genoeg van elkaar en groot genoeg om aan te klikken. 
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Kleurenblindheidtest ging in een keer goed. De kleuren zijn genoeg verschillend dat er niks onleesbaar of onprettig word. De brillen waren ook te doen behalve de pheriferal vision bril. Daarmee kon ik letterlijk niks lezen. De blurry brill was ook niet te doen maar je kan de browser laten inzoomen tot 250-300% en dan is t prima te lezen zonder dat te content heel raar word gedisplayed.
 
 </details>
 
@@ -216,26 +163,13 @@ Sommige knoppen misschien wat groter?
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Index was hier zo goed als klaar buiten de nieuwsbrief. Agenda website was ook grotendeels af maar veel problemen met elementen positionen. Javascript was nog niet begonnen maar dat heb ik tussen week 4 en 5 gedaan na de voortganggesprek. 
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+ 
+  
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Tijdens de meeting heb ik veel tips gekregen over mijn layout. Ook wist ik niet hoe ik de "Tweet this" en programma tijdens moest positioneren maar tijdens te meeting kreeg ik er hulp mee. Het ging namelijk om grid-templates die ik moest gebruik maar toen niet wist hoe het werkte. Ook kreeg ik uitleg hoe ik iframes in mijn html moet stoppen om bijvoorbeeld youtube video's er in te krijgen 
 
 </details>
 
@@ -249,19 +183,28 @@ Sommige knoppen misschien wat groter?
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="images/abbrOnnodig.png">
+   <img src="DTenDThtml.png"> 
+   De abbr was onnodig gebruik, daarom heb ik die verandert naar normale <p> elementen. 
+   DT en DD tag heb ik verkeerd gebruikt, ze moeten andersom. 
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+   code was grotendeels redelijk gedaan
+   geen validator problemen
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+   To change: 
+  voeg light/dark mode toe via mediaqueries  -Done
+  voeg :hover/:active states toe    -Done
+  werk de read.me bij     -Done
+  voeg een javascript code toe die Classlist gebruikt     -Done
+  fix heading levels    -Done
+  dt/dd code fixen -Done
+  abbr in verkeerde context -Done
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
 </details>
 
 
@@ -274,14 +217,16 @@ Sommige knoppen misschien wat groter?
   <summary>continu bijhouden terwijl je werkt</summary>
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
+  https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+  https://www.w3schools.com/jsref/prop_element_classlist.asp
+  https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
   https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state
   https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
- http://gcctech.org/csc/javascript/javascript_keycodes.htm
- https://www.w3schools.com/css/css3_animations.asp
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
-https://www.youtube.com/watch?v=VXWvfrmpapI
-https://www.youtube.com/watch?v=VXWvfrmpapI
-https://css-tricks.com/almanac/
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  http://gcctech.org/csc/javascript/javascript_keycodes.htm
+  https://www.w3schools.com/css/css3_animations.asp
+  https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
+  https://www.youtube.com/watch?v=VXWvfrmpapI
+  https://www.youtube.com/watch?v=VXWvfrmpapI
+  https://css-tricks.com/almanac/
+  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 </details>

@@ -133,4 +133,14 @@ const isLightMode = () => {
 }
 
 
+//Zorgt dat de knop een functie aanroept die de article aan/uit doet :D 
+document.querySelector(".index main>article:nth-of-type(1) button:nth-of-type(1)").onclick = function() {nieuwsbriefDropdown()};
+
+function nieuwsbriefDropdown() {
+    document.getElementById("nieuwsbrief").classList.toggle("nieuwsbriefToggle");
+
+    document.querySelector(".index main>article:nth-of-type(1) button:nth-of-type(1)").classList.toggle("changeButton")
+}
+
+ 
  
